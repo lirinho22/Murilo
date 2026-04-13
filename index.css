@@ -3,4 +3,7 @@
   text-transform: uppercase;
   font-size: 5em;
   color: lightgray;
+  font-family: Lucida Console;
+  text-indent: 2.2em;
+  text-shadow: 1px 1px 1px red;
 }
